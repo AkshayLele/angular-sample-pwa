@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1594101249740,
+  "index": "https://github.com/AkshayLele/angular-sample-pwa.git/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/AkshayLele/angular-sample-pwa.git/favicon.ico",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/index.html",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/main.537af3c873274acead19.js",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/manifest.webmanifest",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/polyfills.a4021de53358bb0fec14.js",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/runtime.e227d1a0e31cbccbf8ec.js",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/styles.1d51a1044c3926733a40.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-128x128.png",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-144x144.png",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-152x152.png",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-192x192.png",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-384x384.png",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-512x512.png",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-72x72.png",
+        "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/index.html": "83c4fffc13ddf006a33186b605398e85693e3155",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/main.537af3c873274acead19.js": "a46b79da30322aa6685220d79c4c47b39ea6e6d8",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://github.com/AkshayLele/angular-sample-pwa.git/styles.1d51a1044c3926733a40.css": "4382875119a6e56fb6dfa918a4aac6dbafaab340"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
